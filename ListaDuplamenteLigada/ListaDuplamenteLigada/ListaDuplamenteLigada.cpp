@@ -150,7 +150,7 @@ void inserirElemento()
 // funções a serem implementadas no exericio
 void exibirReverso()
 {
-
+	cout << "a" << endl;
 }
 
 void excluirPrimeiroElemento()
